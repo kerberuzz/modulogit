@@ -1,3 +1,1 @@
-Meu primeiro commit, novo sistema guys (Alterado e atualizado!)
-
-Alguma linha nova muito louca
+Alguma linha nova muito louca com um conteúdo novo!
